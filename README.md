@@ -1,4 +1,10 @@
-### Hi there 👋
+### New projects will go in 'Boujo' brand
+- currently work on online-player
+
+### Old projects are under 'Socit' brand
+- react-chart
+- react-persian-datepicker
+
 
 <!--
 **farboood/farboood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
